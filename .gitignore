@@ -1,3 +1,9 @@
+# fun stuff
+**/desktop.ini
+**/Thumbs.db
+**/ehthumbs.db
+**/Icon?
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
